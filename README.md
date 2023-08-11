@@ -1,6 +1,6 @@
 # ColombiaTrans-Insights
 Brief description: Dispatches, passengers, and beyond: Comprehensive analysis of public transportation in Colombia. Understand travel patterns with processed data and generated tables.
-<img src="https://github.com/Pking31/ColombiaTrans-Insights/blob/8bc4f7b7b14cc37299f0d2f7b4f47d10ee1984ae/images/tend.png" alt="Texto alternativo" width="400" height="300">
+<img src="https://github.com/Pking31/ColombiaTrans-Insights/blob/8bc4f7b7b14cc37299f0d2f7b4f47d10ee1984ae/images/tend.png" alt="Texto alternativo" >
 <img src="https://github.com/Pking31/ColombiaTrans-Insights/blob/8bc4f7b7b14cc37299f0d2f7b4f47d10ee1984ae/images/clases.png" alt="Texto alternativo" width="400" height="300">
 
 # Project Summary
