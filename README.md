@@ -35,3 +35,5 @@ Libraries: pandas, sodapy, gspread, and oauth2client
 Download data from the official source and DIVIPOLA_Municipios
 Configure GSuite credentials locally to upload tables to Google Sheets
 Utilize the provided modular code to upload results to Google Sheets
+# Dashboard Power BI
+<img src="https://github.com/Pking31/Icfes_2019/blob/main/images/eda.png" alt="Texto alternativo" width="500" height="400">
