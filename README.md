@@ -36,4 +36,4 @@ Download data from the official source and DIVIPOLA_Municipios
 Configure GSuite credentials locally to upload tables to Google Sheets
 Utilize the provided modular code to upload results to Google Sheets
 # Dashboard Power BI
-<img src="https://github.com/Pking31/Icfes_2019/blob/main/images/eda.png" alt="Texto alternativo" width="500" height="400">
+<img src="https://github.com/Pking31/ColombiaTrans-Insights/blob/20fccb039318a00c2d04bbaaf2e271b811c90ef8/images/dashboard.png" alt="Texto alternativo" width="500" height="400">
